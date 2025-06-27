@@ -1,2 +1,2 @@
-# Moile-App-Redesign
+# Mobile-App-Redesign
 This Repository contains UI/UX redesign of a Mobile App 
